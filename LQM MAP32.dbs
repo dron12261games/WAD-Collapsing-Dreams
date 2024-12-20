@@ -21,7 +21,7 @@ maps
 				requiredarchives = "";
 			}
 		}
-		defaultfloortexture = "FWATER1";
+		defaultfloortexture = "FLAT5_1";
 		defaultceiltexture = "F_SKY1";
 		defaulttoptexture = "BIGDOOR2";
 		defaultwalltexture = "BIGDOOR2";
@@ -38,9 +38,9 @@ maps
 		overrideceilheight = false;
 		overridebrightness = false;
 		uselongtexturenames = false;
-		viewpositionx = 46.09767f;
-		viewpositiony = 74.8845f;
-		viewscale = 0.179216f;
+		viewpositionx = 7790.605f;
+		viewpositiony = 2587.048f;
+		viewscale = 0.4735604f;
 		
 		grid
 		{
@@ -50,7 +50,7 @@ maps
 			backoffsety = 0;
 			backscalex = 100;
 			backscaley = 100;
-			gridsize = 256;
+			gridsize = 64;
 			gridrotate = 0;
 			gridoriginx = 0;
 			gridoriginy = 0;
