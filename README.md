@@ -1,4 +1,4 @@
-# Collapsing Dreams (MAP32 for [Laocoön Quick Maps](https://www.doomworld.com/forum/topic/146798-mbf21-laoco%C3%B6n-quick-maps-megawad-in-development-3335-maps-completed/)) [1 Level, MBF21, DOOM 2]
+# Collapsing Dreams (MAP35 for [The Warp](https://www.doomworld.com/forum/topic/146798-mbf21-laoco%C3%B6n-quick-maps-megawad-in-development-3335-maps-completed/)) [1 Level, MBF21, DOOM 2]
 
 # STATUS: 🏁WORK IN PROGRESS
 
