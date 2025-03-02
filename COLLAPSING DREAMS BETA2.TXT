@@ -1,0 +1,191 @@
+===========================================================================
+Advanced engine needed  : MBF21 (NUGHUD + BRGHTMPS for best expiriense -
+                          Nugget Doom or Cherry Doom)
+Primary purpose         : Single play
+===========================================================================
+Title                   : Collapsing Dreams (beta 2)
+Filename                : COLLAPSING DREAMS BETA2.WAD
+Release date            : 1 March 2025
+Author                  : DRON12261
+Email Address           : andrejskocko@gmail.com
+Other Files By Author   : Full list of projects:
+                          https://github.com/dron12261games
+Misc. Author Info       : Mapper, mod maker, graphic artist, programmer,
+                          projects lead, etc.
+
+Description             : [EN]
+                          This map was created specifically for The Warp
+                          project by Laocoön. It was conceived by me as an
+                          alternative secret ending to the megawad.
+                          
+                          It is probably the largest and most elaborate map
+                          in my career as a mapper at the moment. The
+                          gameplay will be a non-stop action in the spirit of
+                          Run&Gun with a very large-scale battle at the end
+                          of the map. But there are also great opportunities
+                          to explore the level due to the large amount of
+                          secrets. The approximate time to fully complete a
+                          level is from 40 minutes to 1 hour.
+                          
+                          This is beta 1 - only Ultra-Violence is available
+                          to play! Other difficulty levels will be available
+                          in the next updates.
+                          
+                          
+                          
+                          [RU]
+                          Эта карта создавалась специально для проекта The
+                          Warp автором которого является Laocoön. Она
+                          задумывалась мной как альтернативная секретная
+                          концовка мегавада.
+                          
+                          Пожалуй это самая большая и проработанная карта за
+                          мою карьеру маппера на текущий момент. Геймплей
+                          будет составлять из себя безостановочный экшен в
+                          духе Run&Gun с очень масштабным боем в конце карты.
+                          Но также есть большие возможности для исследования
+                          уровня благодаря большому кол-ву секретов.
+                          Ориентировочное время на полноценное прохождение
+                          уровня - от 40 минут до 1 часа.
+                          
+                          Это beta 2 - для игры доступен исключительно
+                          Ultra-Violence! Остальные уровни сложности
+                          будут в следующих обновлениях.
+                          
+                          
+                          
+                          
+                          
+                          [EN - Intro]
+                          You can feel it
+                          You know they're waiting for you
+                          You know it's unavoidably
+                          
+                          This chaos
+                          This power
+                          This madness
+                          
+                          You are at the gates of the Warp...
+                          And nothing can make you turn back!
+                          
+                          
+                          
+                          [RU - Intro]
+                          Ты чувствуешь это
+                          Ты знаешь, что они ждут тебя
+                          Ты знаешь, что это неизбежно
+                          
+                          Этот хаос
+                          Эта сила
+                          Это безумие
+                          
+                          Ты стоишь у врат Варпа...
+                          И ничто не заставит тебя повернуть назад!
+
+Additional Credits to   : Laocoön for The Warp project itself
+                          
+                          
+                          
+                          Soundtrack on map written by Karl Casey (White Bat
+                          Audio):
+                          1) Main Level Part 1 - "The System Has Failed"
+                          2) Main Level Part 2 - "The Chase"
+                          3) The Warp Gate & Ending - "Within The Shadows"
+                          4) Final Battle - "Deadly Force"
+                          
+                          Music is Royalty Free/No Copyright
+                          
+                          
+                          
+                          HUD by DRON12261 (based on old materials by Giffy)
+                          
+                          Textures by DRON12261 (based on original textures
+                          by id Software)
+                          
+                          Noir colormap by DRON12261
+                          
+                          Vial of Chaos (Commander Keen) sprites by Carton
+                          Kobra
+                          Vial of Chaos (Commander Keen) sounds by DRON12261
+                          & Doom PSX
+                          
+                          Sky Textures from 32in24-15_tex_v2 and Muumi pack
+                          
+                          Special Thanks for testing beta 1:
+                          - Doom Wads
+                          - Ear1h
+                          - Carton Kobra
+===========================================================================
+* What is included *
+
+New levels              : MAP35
+Sounds                  : Yes
+Music                   : Yes
+Graphics                : Yes
+Dehacked/BEX Patch      : No
+Demos                   : No
+Other                   : No
+Other files required    : None
+
+
+* Play Information *
+
+Game                    : Doom 2
+Map #                   : MAP35
+Single Player           : Designed for
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : No
+Other game styles       : None
+Difficulty Settings     : Not implemented
+
+
+* Construction *
+
+Base                    : New from scratch
+Build Time              : Six months
+Editor(s) used          : Ultimate Doom Builder, SLADE 3, Aseprite, Audacity
+                          
+Known Bugs              : DSDA OpenGL+Mouselook completely break the map, you
+                          should absolutely refrain from playing with such
+                          settings.
+                          
+                          Doom Retro doesn't handle such large maps well.
+                          UV-MAX in Doom Retro will be unattainable there as
+                          some monsters don't teleport and get stuck, in one
+                          secret the rendering breaks very badly.
+                          
+                          Mouselook can break some scenes, it's best not to
+                          use it
+                          
+                          Large FOV in Woof!/Nugget Doom/Cherry Doom (and
+                          possibly other ports) can also break some scenes,
+                          it is not recommended to set values above 90
+                          
+May Not Run With        : Non MBF21 ports
+                          GZDoom will be having performance issues
+                          
+Tested With             : Nugget Doom v4.2.0, 
+                          Cherry Doom v2.0.0,
+                          Doom Retro v5.6, 
+                          DSDA v0.28.3, 
+                          Woof! v15.0.1
+
+
+* Copyright / Permissions *
+
+This work is licensed under the Creative Commons Attribution-ShareAlike 4.0
+International License. To view a copy of this license, visit
+http://creativecommons.org/licenses/by-sa/4.0/
+
+You are free to copy and redistribute the material in any medium or format;
+and remix, transform, and build upon the material for any purpose, even
+commercially. If you do so, you must give appropriate credit, provide a link
+to the license, and indicate if changes were made. You may do so in any
+reasonable manner, but not in any way that suggests the licensor endorses you
+or your use. If you remix, transform, or build upon the material, you must
+distribute your contributions under the same license as the original.
+
+* Where to get the file that this text file describes *
+
+The Usual: ftp://archives.gamers.org/pub/idgames/ and mirrors
+Web sites: https://github.com/dron12261games
