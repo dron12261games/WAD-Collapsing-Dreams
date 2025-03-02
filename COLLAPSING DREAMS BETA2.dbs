@@ -38,9 +38,9 @@ maps
 		overrideceilheight = false;
 		overridebrightness = false;
 		uselongtexturenames = false;
-		viewpositionx = 8467.544f;
-		viewpositiony = 3981.928f;
-		viewscale = 1.900486f;
+		viewpositionx = 11556.82f;
+		viewpositiony = 1637.93f;
+		viewscale = 0.6654146f;
 		
 		grid
 		{
@@ -50,7 +50,7 @@ maps
 			backoffsety = 0;
 			backscalex = 100;
 			backscaley = 100;
-			gridsize = 16;
+			gridsize = 64;
 			gridrotate = 0;
 			gridoriginx = 0;
 			gridoriginy = 0;
