@@ -1,8 +1,8 @@
 # Collapsing Dreams (MAP35 for [The Warp](https://www.doomworld.com/forum/topic/146798-mbf21-laoco%C3%B6n-quick-maps-megawad-in-development-3335-maps-completed/)) [1 Level, MBF21, DOOM 2]
 
-# STATUS: 🏁WORK IN PROGRESS
+# STATUS: ✅RELEASED
 
-# Actual screenshots:
+# Old wip screenshots:
 ![Screen1](./screens/1.png)
 ![Screen2](./screens/2.png)
 ![Screen3](./screens/3.png)
